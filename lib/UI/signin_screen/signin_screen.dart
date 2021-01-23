@@ -11,6 +11,20 @@ class SigninPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text('ここはログインのページだよ'),
+            Text('e-mail'),
+            TextField(
+              decoration: InputDecoration(
+                border: InputBorder.none,
+                hintText: 'Enter a search term',
+              ),
+            ),
+            Text('password'),
+            TextField(
+              decoration: InputDecoration(
+                border: InputBorder.none,
+                hintText: 'Enter a search term',
+              ),
+            ),
             RaisedButton(
                 child: Text('ログイン'),
                 onPressed: () {

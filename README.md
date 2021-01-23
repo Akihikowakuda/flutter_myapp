@@ -14,4 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# flutter_myapp
+# 参考ページ
+- https://firebase.google.com/docs/flutter/setup?hl=ja#analytics-enabled
+- https://developer.android.com/studio/build/multidex?hl=ja
